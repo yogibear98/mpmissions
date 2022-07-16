@@ -1,0 +1,42 @@
+{
+    "m_Version": 4,
+    "EnableMap": 1,
+    "UseMapOnMapItem": 1,
+    "ShowPlayerPosition": 1,
+    "ShowMapStats": 1,
+    "NeedPenItemForCreateMarker": 0,
+    "NeedGPSItemForCreateMarker": 0,
+    "CanCreateMarker": 1,
+    "CanCreate3DMarker": 1,
+    "CanOpenMapWithKeyBinding": 1,
+    "ShowDistanceOnPersonalMarkers": 1,
+    "EnableHUDGPS": 1,
+    "NeedGPSItemForKeyBinding": 1,
+    "NeedMapItemForKeyBinding": 0,
+    "EnableServerMarkers": 1,
+    "ShowNameOnServerMarkers": 1,
+    "ShowDistanceOnServerMarkers": 1,
+    "ServerMarkers": [
+        {
+            "m_UID": "ServerMarker_Trader_Krasno",
+            "m_Visibility": 4,
+            "m_Is3D": 0,
+            "m_Text": "Altar Trader",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                8050.0,
+                450.0,
+                9300.0
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        }
+    ],
+    "EnableHUDCompass": 1,
+    "NeedCompassItemForHUDCompass": 0,
+    "NeedGPSItemForHUDCompass": 0,
+    "CompassColor": -1,
+    "CreateDeathMarker": 0,
+    "PlayerLocationNotifier": 0
+}

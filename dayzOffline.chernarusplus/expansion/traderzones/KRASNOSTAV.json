@@ -1,0 +1,13 @@
+{
+  "m_Version": 6,
+  "m_DisplayName": "Krasnostav Trading Zone",
+  "Position": [
+    11924.7002,
+    140.699997,
+    12527
+  ],
+  "Radius": 1000,
+  "BuyPricePercent": 100,
+  "SellPricePercent": -1,
+  "Stock": {}
+}

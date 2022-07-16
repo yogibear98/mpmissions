@@ -1,0 +1,134 @@
+	<type name="Gold_CombatKnife">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+    </type>
+	<type name="Gold_HuntingKnife">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+    </type>
+	<type name="Gold_Winchester70">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+		<value name="Tier4"/>
+		<usage name="Crash"/>
+    </type>
+	<type name="Gold_M4">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+		<value name="Tier4"/>
+		<usage name="Crash"/>
+    </type>
+	<type name="Gold_Mosin">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+		<value name="Tier4"/>
+		<usage name="Crash"/>
+    </type>
+	<type name="Gold_UMP">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+		<value name="Tier4"/>
+		<usage name="Crash"/>
+    </type>
+	<type name="Gold_SKS">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+		<value name="Tier4"/>
+		<usage name="Crash"/>
+    </type>
+	<type name="Gold_SVD">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+		<value name="Tier4"/>
+		<usage name="Crash"/>
+    </type>
+	<type name="Gold_AKM">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+		<value name="Tier4"/>
+		<usage name="Crash"/>
+    </type>
+	<type name="Gold_FAL">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+		<value name="Tier4"/>
+		<usage name="Crash"/>
+    </type>

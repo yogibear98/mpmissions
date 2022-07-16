@@ -1,0 +1,13 @@
+{
+  "m_Version": 6,
+  "m_DisplayName": "Balota Aircrafts Trading Zone",
+  "Position": [
+    4971,
+    10.5,
+    2436.36011
+  ],
+  "Radius": 100,
+  "BuyPricePercent": 100,
+  "SellPricePercent": -1,
+  "Stock": {}
+}

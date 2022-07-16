@@ -1,0 +1,21 @@
+{
+    "m_Version": 6,
+    "Enabled": 1,
+    "FrameRateCheckSafeZoneInMs": 0,
+    "CircleZones": [
+        {
+            "Type": 1,
+            "Center": [
+                8062.306641, 
+                458.866150,
+                9331.386719
+            ],
+            "Radius": 500.0
+        }
+    ],
+    "DisableVehicleDamageInSafeZone": 1,
+    "EnableForceSZCleanup": 1,
+    "ItemLifetimeInSafeZone": 900.0,
+    "ForceSZCleanup_ExcludedItems": [],
+    "ActorsPerTick": 5
+}

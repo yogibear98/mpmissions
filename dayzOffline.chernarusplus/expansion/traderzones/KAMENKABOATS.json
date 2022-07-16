@@ -1,0 +1,13 @@
+{
+  "m_Version": 6,
+  "m_DisplayName": "Kamenka Boats Trading Zone",
+  "Position": [
+    1756.09998,
+    2.20000005,
+    2025.46997
+  ],
+  "Radius": 100,
+  "BuyPricePercent": 100,
+  "SellPricePercent": -1,
+  "Stock": {}
+}
